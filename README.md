@@ -8,12 +8,11 @@ Use the starter code and commit each step of the exercise.
 - Checkout a new branch called '**YOUR-NAME**-solution'
 - Work in small steps and commit frequently.
 - When you're finished, push your solution branch to your fork (`git push origin <branch-name>`) and issue a **pull request**.
-- Feel free to use jQuery.
 
 ### Commit 1
 
 * When I click the "Set Color" button, it should change the color of the "brush" box to the color I specify in the input field.
-* Use jQuery to select the element and add an event listener
+* You can use `document.querySelector` (or another document method) to select the element, then add an event listener.
 
 > **HINT:** You will notice that the page refreshes whenever you click the button. You need to prevent this from happening using a method you have not used before. Google "javascript event prevent default". You can also reference [this portion](https://github.com/ga-wdi-lessons/js-events-callbacks#event-defaults-405---410-5-minutes) of the Events & Callbacks lesson plan.
 
@@ -24,7 +23,7 @@ Use the starter code and commit each step of the exercise.
 ### Commit 3
 
 * Create 20 divs of the "square" class and append them to the body
-  * **Hint**: use `.append()`
+  * **Hint**: use `.appendChild()`
 
 ### Commit 4
 
