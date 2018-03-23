@@ -3,11 +3,12 @@
 For this assignment you'll be creating a Javascript painting app. When you're done, [it should display this functionality](http://ga-wdi-exercises.github.io/pixart_js/).
 
 Use the starter code and commit each step of the exercise.
-
-- Fork and clone this repo.
-- Checkout a new branch called '**YOUR-NAME**-solution'
-- Work in small steps and commit frequently.
-- When you're finished, push your solution branch to your fork (`git push origin <branch-name>`) and issue a **pull request**.
+## Set up
+1. Fork and clone this repo.
+2. Checkout a new branch called '**YOUR-NAME**-solution'
+   > `$ git checkout -b` `<your-name-solution>`
+3. Work in small steps and commit frequently.
+4. When you're finished, push your solution branch to your fork (`git push origin <branch-name>`) and issue a **pull request**.
 
 ### Commit 1
 
