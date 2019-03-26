@@ -6,7 +6,7 @@ Use the starter code and commit each step of the exercise.
 ## Set up
 1. Fork and clone this repo.
 2. Checkout a new branch called '**YOUR-NAME**-solution'
-   > `$ git checkout -b` `<your-name-solution>`
+   > `$ git checkout -b` `your-name-solution`
 3. Work in small steps and commit frequently.
 4. When you're finished, push your solution branch to your fork (`git push origin <branch-name>`) and issue a **pull request**.
 
