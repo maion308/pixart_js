@@ -13,7 +13,7 @@ Use the starter code and commit each step of the exercise.
 * When I click the "Set Color" button, it should change the color of the "brush" box to the color I specify in the input field.
 * You can use `document.querySelector` (or another document method) to select the element, then add an event listener.
 
-> **HINT:** You will notice that the page refreshes whenever you click the button. You need to prevent this from happening using a method you have not used before. Google "javascript event prevent default". You can also reference [this portion](https://github.com/ga-wdi-lessons/js-events-callbacks#event-defaults-405---410-5-minutes) of the Events & Callbacks lesson plan.
+> **HINT:** You will notice that the page refreshes whenever you click the button. You need to prevent this from happening using a method you have not used before. Google "javascript event prevent default". You can also reference [this portion](https://git.generalassemb.ly/sei-nyc-thunderbolt/js-events-lesson#preventing-default-behavior) of the Events & Callbacks lesson plan.
 
 ### Commit 2
 
