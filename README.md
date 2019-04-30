@@ -5,10 +5,8 @@ For this assignment you'll be creating a Javascript painting app. When you're do
 Use the starter code and commit each step of the exercise.
 ## Set up
 1. Fork and clone this repo.
-2. Checkout a new branch called '**YOUR-NAME**-solution'
-   > `$ git checkout -b` `your-name-solution`
-3. Work in small steps and commit frequently.
-4. When you're finished, push your solution branch to your fork (`git push origin <branch-name>`) and issue a **pull request**.
+2. Work in small steps and commit frequently.
+3. When you're finished, push your code and issue a **pull request**.
 
 ### Commit 1
 
@@ -37,7 +35,6 @@ Use the starter code and commit each step of the exercise.
 
 ### Commit 6
 
-* Modify the CSS so that the "square" class has a height and width of 10px and a margin of 0.
 * Modify your code so that you are creating 8000 divs instead of 20.
 * Change the event that changes your box colors from 'click' to 'mouseover'
 * Paint a picture!
