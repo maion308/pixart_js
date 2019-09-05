@@ -19,3 +19,9 @@ function getColor(){
 }
 
 setColor();
+
+colorInput.addEventListener('keyup',(e)=>{
+    if(e.keyCode === 13){
+        btn.click();
+    }
+})
