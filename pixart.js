@@ -25,3 +25,14 @@ colorInput.addEventListener('keyup',(e)=>{
         btn.click();
     }
 })
+
+function createSquares(){
+    for(i = 1; i <= 20; i++){
+    let div = document.createElement('div');
+    div.classList = "square";
+    document.body.appendChild(div);
+        
+    }
+}
+
+createSquares();
