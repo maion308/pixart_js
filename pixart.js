@@ -27,7 +27,7 @@ colorInput.addEventListener('keyup',(e)=>{
 })
 
 function createSquares(){
-    for(i = 1; i <= 800; i++){
+    for(i = 1; i <= 8000; i++){
     let div = document.createElement('div');
     div.addEventListener('mouseover', colorGreen);
     div.classList = "square";
@@ -35,7 +35,7 @@ function createSquares(){
 
     }
     function colorGreen(){
-        this.style.background = "green";
+        this.style.background = colorInput.value;
     }
 }
 
